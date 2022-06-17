@@ -31,4 +31,4 @@ This project aims to analyze Amazon reviews written by members of the paid Amazo
 
 # Summary:
 
-I don't see any positivity bias for reviews in the vine program because both vine and non-vine review percentages are the same. Additional analysis would be summarizing data to get a summary of statistics (mean, SD, and IQR values) for star rating for both vine and non-vine reviews.
+I don't see any positivity bias for reviews in the vine program because both vine and non-vine review percentages are the same which is 46.99%. Additional analysis would be summarizing data to get a summary of statistics (mean, SD, and IQR values) for star rating for both vine and non-vine reviews.
